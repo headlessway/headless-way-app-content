@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=331768,CODECS="mp4a.40.2, avc1.42e015"
+Reflections%2031%20-%20Cellular%20Low.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=637531,CODECS="mp4a.40.2, avc1.42e015"
+Reflections%2031%20-%20Cellular%20High.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1035738,CODECS="mp4a.40.2, avc1.42e01e"
+Reflections%2031%20-%20Wi-Fi%20Low.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1275919,CODECS="mp4a.40.2, avc1.4d401e"
+Reflections%2031%20-%20Wi-Fi%20High.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=40942,CODECS="mp4a.40.2"
+Reflections%2031%20-%20Audio%20for%20HTTP%20Live%20Streaming.segments/prog_index.m3u8
