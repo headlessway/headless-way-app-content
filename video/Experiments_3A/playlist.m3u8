@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=298048,CODECS="mp4a.40.2, avc1.42e015"
+Who%20are%20we%20really%203A%20-%20Cellular%20Low.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=667822,CODECS="mp4a.40.2, avc1.42e015"
+Who%20are%20we%20really%203A%20-%20Cellular%20High.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1095747,CODECS="mp4a.40.2, avc1.42e01e"
+Who%20are%20we%20really%203A%20-%20Wi-Fi%20Low.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2442105,CODECS="mp4a.40.2, avc1.4d401e"
+Who%20are%20we%20really%203A%20-%20Wi-Fi%20High.segments/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=43742,CODECS="mp4a.40.2"
+Who%20are%20we%20really%203A%20-%20Audio%20for%20HTTP%20Live%20Streaming.segments/prog_index.m3u8
