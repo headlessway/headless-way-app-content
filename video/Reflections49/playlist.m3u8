@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=283046,CODECS="mp4a.40.2, avc1.42e015"
-Reflections%2049%20-%20Cellular%20Low.segments/prog_index.m3u8
+Reflections_49_-_Cellular_Low.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=621243,CODECS="mp4a.40.2, avc1.42e015"
-Reflections%2049%20-%20Cellular%20High.segments/prog_index.m3u8
+Reflections_49_-_Cellular_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1027736,CODECS="mp4a.40.2, avc1.42e01e"
-Reflections%2049%20-%20Wi-Fi%20Low.segments/prog_index.m3u8
+Reflections_49_-_Wi-Fi_Low.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1283777,CODECS="mp4a.40.2, avc1.4d401e"
-Reflections%2049%20-%20Wi-Fi%20High.segments/prog_index.m3u8
+Reflections_49_-_Wi-Fi_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=43255,CODECS="mp4a.40.2"
-Reflections%2049%20-%20Audio%20for%20HTTP%20Live%20Streaming.segments/prog_index.m3u8
+Reflections_49_-_Audio_for_HTTP_Live_Streaming.segments/prog_index.m3u8
