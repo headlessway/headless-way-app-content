@@ -1,7 +1,7 @@
 body {
     -webkit-text-size-adjust: none;
     font-family: Helvetica, Arial, Verdana, sans-serif;
-    padding: 2px;
+    padding: 0.25em;
 
     color: rgb(46, 65, 90);
 
@@ -19,6 +19,21 @@ img {
     height: auto;
 }
 
+hr {
+    height: 1px;
+    border: none;
+    color: rgb(46, 65, 90);
+    background-color: rgb(46, 65, 90);
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.centered-quote {
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .image-with-caption {
     text-align: center;
     font-style: italic;
@@ -30,6 +45,15 @@ img {
 
 .remarks {
     font-style: italic;
+}
+
+.voiced {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.voiced.alternate {
+    font-style: normal;
 }
 
 .underlined {
