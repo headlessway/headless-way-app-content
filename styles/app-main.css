@@ -28,6 +28,10 @@ hr {
     margin-bottom: 2em;
 }
 
+a {
+    color: rgb(88 103 122);
+}
+
 .centered-quote {
     text-align: center;
     margin-top: 2em;
@@ -68,5 +72,9 @@ hr {
     text-transform: capitalize;
 }
 
+li.navigation-back {
+    margin-top: 1em;
+    list-style: circle;
+}
 
 
