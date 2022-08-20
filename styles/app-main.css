@@ -1,9 +1,14 @@
+:root {
+    --color-text: rgb(46, 65, 90);
+    --color-primary: #407cbe;
+}
+
 body {
     -webkit-text-size-adjust: none;
     font-family: Helvetica, Arial, Verdana, sans-serif;
     padding: 0.25em;
 
-    color: rgb(46, 65, 90);
+    color: var(--color-text);
 
     background: rgb(255, 255, 255);
 }
