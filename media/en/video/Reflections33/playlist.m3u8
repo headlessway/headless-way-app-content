@@ -5,7 +5,5 @@ Reflections_33_-_Cellular_Low.segments/prog_index.m3u8
 Reflections_33_-_Cellular_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1057598,CODECS="mp4a.40.2, avc1.42e01e"
 Reflections_33_-_Wi-Fi_Low.segments/prog_index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1271061,CODECS="mp4a.40.2, avc1.4d401e"
-Reflections_33_-_Wi-Fi_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=41045,CODECS="mp4a.40.2"
 Reflections_33_-_Audio_for_HTTP_Live_Streaming.segments/prog_index.m3u8

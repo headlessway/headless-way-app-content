@@ -5,7 +5,5 @@ Who_are_we_really_1B_-_Cellular_Low.segments/prog_index.m3u8
 Who_are_we_really_1B_-_Cellular_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1028594,CODECS="mp4a.40.2, avc1.42e01e"
 Who_are_we_really_1B_-_Wi-Fi_Low.segments/prog_index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2261934,CODECS="mp4a.40.2, avc1.4d401e"
-Who_are_we_really_1B_-_Wi-Fi_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=42029,CODECS="mp4a.40.2"
 Who_are_we_really_1B_-_Audio_for_HTTP_Live_Streaming.segments/prog_index.m3u8

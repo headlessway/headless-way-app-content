@@ -5,7 +5,5 @@ Experiments_for_app_-_Cellular_Low.segments/prog_index.m3u8
 Experiments_for_app_-_Cellular_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1174737,CODECS="mp4a.40.2, avc1.42e01e"
 Experiments_for_app_-_Wi-Fi_Low.segments/prog_index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1621157,CODECS="mp4a.40.2, avc1.4d401e"
-Experiments_for_app_-_Wi-Fi_High.segments/prog_index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=49500,CODECS="mp4a.40.2"
 Experiments_for_app_-_Audio_for_HTTP_Live_Streaming.segments/prog_index.m3u8
