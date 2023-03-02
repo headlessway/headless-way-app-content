@@ -29,8 +29,22 @@
     text-decoration: none;
 }
 
-
 .app-navigation .nav-tile i {
     /*display: block;*/
     margin-bottom: .25rem;
+}
+
+.app-navigation .full-width-nav-tile {
+    grid-column: 1 / -1;
+}
+
+.app-navigation .notice {
+    background-color: transparent;
+    border-color: green;
+    color: green;
+    border: .75rem solid green;
+}
+
+.app-navigation .notice a {
+    color: green;
 }
